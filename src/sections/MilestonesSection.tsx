@@ -105,10 +105,11 @@ const MilestonesSection: React.FC = () => {
           viewport={{ once: true }}
         >
           <Content>
-            <Year>2020</Year>
+            <Year>March 2025</Year>
             <p>
-              CyberGuard AI was born from the minds of cybersecurity wizards and
-              AI sorcerers, aiming to revolutionize digital defense.
+              🧠 The spark ignites! Our team of cybersecurity wizards starts
+              brewing the perfect Random Forest classifier. Coffee consumption
+              reaches dangerous levels.
             </p>
           </Content>
         </Container>
@@ -120,10 +121,11 @@ const MilestonesSection: React.FC = () => {
           viewport={{ once: true }}
         >
           <Content>
-            <Year>2022</Year>
+            <Year>May 2025</Year>
             <p>
-              Launched our first Quantum Scanner, achieving a 99.9% detection
-              rate for known and zero-day threats.
+              🔬 Feature extraction magic happens! Our ASM framework starts
+              dissecting Java bytecode like a digital pathologist. Malware has
+              nowhere to hide.
             </p>
           </Content>
         </Container>
@@ -135,10 +137,11 @@ const MilestonesSection: React.FC = () => {
           viewport={{ once: true }}
         >
           <Content>
-            <Year>2024</Year>
+            <Year>July 2025</Year>
             <p>
-              Expanded our services to protect over 50 million devices
-              worldwide, from personal computers to corporate networks.
+              🚀 Launch day! CyberGuard AI emerges from the digital shadows,
+              ready to read malware's mind and protect the cyber realm. The
+              future is now!
             </p>
           </Content>
         </Container>
