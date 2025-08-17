@@ -14,17 +14,6 @@ const Title = styled.h2`
   text-align: center;
   margin-bottom: 4rem;
   position: relative;
-
-  &::before {
-    content: "06.";
-    position: absolute;
-    left: 50%;
-    transform: translateX(-150%);
-    top: -20px;
-    color: var(--green);
-    font-family: monospace;
-    font-size: 1.5rem;
-  }
 `;
 
 const UploadBox = styled(motion.div)<{ isDragOver: boolean }>`
