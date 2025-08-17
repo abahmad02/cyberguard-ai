@@ -52,6 +52,7 @@ const Navbar: React.FC = () => {
         <NavLink href="#milestones">Genesis</NavLink>
         <NavLink href="#tech">Technologies</NavLink>
         <NavLink href="#blog">Blog</NavLink>
+        <NavLink href="#model-comparison">AI Models</NavLink>
         <NavLink href="#contact">Contact</NavLink>
         <NavLink href="#upload">Scan Files</NavLink>
       </NavLinks>
